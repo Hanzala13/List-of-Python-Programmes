@@ -1,0 +1,10 @@
+{
+    "name": "John Doe",
+    "age": 28,
+    "email": "john.doe@example.com",
+    "address": {
+        "city": "New York",
+        "zip": "10001"
+    },
+    "skills": ["Python", "Cybersecurity", "Networking"]
+}
